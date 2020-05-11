@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 from distutils.core import setup
+#print("this is nicky")
 
 setup(name='ipcalc',
       version='1.99.0',
